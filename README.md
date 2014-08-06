@@ -1,4 +1,3 @@
-qqgroup-user-extractor
-======================
+# qq
 
-qq群用户邮箱提取工具
+qq
